@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# Fixes the issue with the server
-# use code frpm task one
+# Fixes the issurs with the server
 
 sudo chmod 777 /etc/nginx/nginx.conf
 sudo pkill apache2
